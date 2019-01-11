@@ -1,0 +1,1 @@
+This folder contains some automated excel sheets to do certain calculations for securitized products. 
